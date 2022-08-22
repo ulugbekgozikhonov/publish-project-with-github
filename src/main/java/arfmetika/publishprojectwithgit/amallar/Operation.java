@@ -1,4 +1,4 @@
-package arfmetika;
+package arfmetika.publishprojectwithgit.amallar;
 
 public class Operation {
 
